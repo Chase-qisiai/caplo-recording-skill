@@ -1,0 +1,4 @@
+interface:
+  display_name: "Caplo 录屏与剪辑"
+  short_description: "使用 Caplo 录制电脑操作并编辑字幕和导出视频"
+  default_prompt: "使用 $caplo-recording 录制操作演示并导出视频。"
